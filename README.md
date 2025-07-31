@@ -2,9 +2,7 @@
 This project focuses on predicting diabetes using health-related data through machine learning and data analysis techniques. It includes data preprocessing, EDA, feature selection, model comparison, hyperparameter tuning, evaluation metrics, handling imbalanced data with SMOTE, and interpretability using SHAP values.
 
 📂 Project Structure
-vbnet
-Copy
-Edit
+
 📁 diabetes-prediction/
 │
 ├── 📄 diabetes_prediction_notebook.ipynb
@@ -12,6 +10,7 @@ Edit
 ├── 📄 final_cleaned_dataset.csv
 ├── 📄 README.md  <-- You are here
 └── 📄 requirements.txt (Optional if you want to list dependencies)
+
 📌 Features Covered
 Data Cleaning & Preprocessing: Scaling, encoding, handling missing & infinite values
 
@@ -63,9 +62,7 @@ imbalanced-learn (SMOTE)
 SHAP (Model Interpretability)
 
 🔧 Setup
-bash
-Copy
-Edit
+
 # Clone the repo
 git clone https://github.com/your-username/diabetes-prediction.git
 cd diabetes-prediction
